@@ -5,4 +5,4 @@ O projeto consistia em converter um arquivo de imagem em uma página usando HTML
 
 ## Imagem
 
-![Imagem do Portal](https://github.com/felipe-dmb/html-portal/portal.jpg)
+[Link para a Imagem do Portal](https://github.com/felipe-dmb/html-portal/portal.jpg)
